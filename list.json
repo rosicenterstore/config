@@ -26,6 +26,7 @@
   {"id":23,"name":"MASA AKTIF XL","desc":"Pengisian Masa Aktif Untuk Kartu Provider XL","price":8000,"cat":"MASA AKTIF","masa_aktif":"30 HARI"},
   {"id":25,"name":"MASA AKTIF AXIS","desc":"Pengisian Masa Aktif Untuk Kartu Provider AXIS Bonus Kuota Game 1 GB","price":8000,"cat":"MASA AKTIF","masa_aktif":"30 HARI"},
   {"id":26,"name":"XL IFLIX","desc":"Config Untuk Paket XL IFLIX Tidak Termasuk Paket","price":10000,"cat":"XL","masa_aktif":"30 HARI"},
+  {"id":21,"name":"XL XTRA KUOTA PAKET","desc":"Paket XTRA KUOTA Masa Aktif Paket 30 Hari, dengan Kuota 14 GB Iflix, 15 GB Kuota Malam, 1 GB Sosmed, tida Dapat Ditumpuk","price":150000,"cat":"PAKET","masa_aktif":"30 HARI"},
   {"id":29,"name":"AXIS GAME BOOSTER","desc":"Config Untuk Paket GAME BOOSTER AXIS Tidak Termasuk Paket","price":10000,"cat":"AXIS","masa_aktif":"30 HARI"},
   {"id":30,"name":"AXIS GAME BOOSTER","desc":"Config Untuk Paket GAME BOOSTER AXIS Tidak Termasuk Paket","price":5000,"cat":"AXIS","masa_aktif":"15 HARI"},
   {"id":30,"name":"AXIS GAME BOOSTER","desc":"Config Untuk Paket GAME BOOSTER AXIS Tidak Termasuk Paket","price":3000,"cat":"AXIS","masa_aktif":"7 HARI"},
