@@ -38,6 +38,6 @@
   {"id":39,"name":"SMARTFREN CHAT","desc":"Config Untuk Paket SMARTFREN CHAT Tidak Termasuk Paket Paket dapat di beli di aplikasi","price":10000,"cat":"smartfren","masa_aktif":"30 HARI"},
   {"id":40,"name":"SMARTFREN NONSTOP","desc":"Config Untuk Paket SMARTFREN NONSTOP Tidak Termasuk Paket Paket dapat di beli di aplikasi","price":10000,"cat":"smartfren","masa_aktif":"30 HARI"},
  {"id":41,"name":"BYU TIKTOK","desc":"Config Untuk Paket BYU TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi","price":10000,"cat":"BYU","masa_aktif":"30 HARI"},
- {"id":42,"name":"TSEL TIKTOK","desc":"Config Untuk Paket TSEL TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi","price":10000,"cat":"TELKOMSEL","masa_aktif":"30 HARI"},
+ {"id":42,"name":"TSEL TIKTOK","desc":"Config Untuk Paket TSEL TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi","price":10000,"cat":"TELKOMSEL","masa_aktif":"30 HARI"}
   
 ]
