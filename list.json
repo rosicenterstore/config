@@ -33,6 +33,8 @@
   {"id":32,"name":"TSEL ILPED","desc":"Config Untuk Paket TELKOMSEL ILMUPEDIA 22 GB Tidak Termasuk paket (Wajib Trial Karena tidak semua Lokasi dapat menggunakan vpn)","price":10000,"cat":"TELKOMSEL","masa_aktif":"30 HARI"},
   {"id":33,"name":"TSEL ILPED","desc":"Config Untuk Paket TELKOMSEL ILMUPEDIA 22 GB Tidak Termasuk paket (Wajib Trial Karena tidak semua Lokasi dapat menggunakan vpn)","price":5000,"cat":"TELKOMSEL","masa_aktif":"15 HARI"},
   {"id":34,"name":"ISAT APPFUNS","desc":"Config Untuk Paket Im3 Fredoom appsFun Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3","price":10000,"cat":"IM3","masa_aktif":"30 HARI"},
+  {"id":34,"name":"ISAT EDU12","desc":"Config Untuk Paket Im3 Fredoom Edukasi 12 GB Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3","price":10000,"cat":"IM3","masa_aktif":"30 HARI"},
+  {"id":34,"name":"ISAT EDU30","desc":"Config Untuk Paket Im3 Fredoom Edukasi 30 GB Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3","price":10000,"cat":"IM3","masa_aktif":"30 HARI"},
   {"id":35,"name":"THREE SOSMED","desc":"Config Untuk Paket Sosmed Three Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3","price":10000,"cat":"IM3","masa_aktif":"30 HARI"},
   {"id":36,"name":"XL TIKTOK","desc":"Config Untuk Paket XL TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi","price":10000,"cat":"XL","masa_aktif":"30 HARI"},
   {"id":37,"name":"AXIS TIKTOK","desc":"Config Untuk Paket AXIS TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi","price":10000,"cat":"AXIS","masa_aktif":"30 HARI"},
