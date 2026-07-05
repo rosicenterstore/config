@@ -10,7 +10,7 @@
   {"id":9,"name":"AXIS WA BOOSTER","desc":"Config Untuk Paket WA BOOSTER AXIS Tidak Termasuk Paket","price":3000,"cat":"AXIS","masa_aktif":"7 HARI"},
   {"id":10,"name":"AXIS WA BOOSTER","desc":"Config Untuk Paket WA BOOSTER AXIS Tidak Termasuk Paket","price":5000,"cat":"AXIS","masa_aktif":"15 HARI"},
   {"id":11,"name":"AXIS MUSIK BOOSTER","desc":"Config Untuk Paket MUSIK BOOSTER AXIS Tidak Termasuk Paket","price":3000,"cat":"AXIS","masa_aktif":"7 HARI"},
-  {"id":12,"name":"AXIS MUSIK BOOSTER","desc":"Config Untuk Paket MUSIK BOOSTER AXIS Tidak Termasuk Paket","price":5000,"cat":"AXIS","masa_aktif":"5 HARI"},
+  {"id":12,"name":"AXIS MUSIK BOOSTER","desc":"Config Untuk Paket MUSIK BOOSTER AXIS Tidak Termasuk Paket","price":5000,"cat":"AXIS","masa_aktif":"15 HARI"},
   {"id":13,"name":"AXIS MUSIK BOOSTER","desc":"Config Untuk Paket MUSIK BOOSTER AXIS Tidak Termasuk Paket","price":10000,"cat":"AXIS","masa_aktif":"30 HARI"},
   {"id":14,"name":"TSEL HALO FLEXY BOOSTER","desc":"Config Untuk Paket HALLO FLEXY TELKOMSEL Tidak Termasuk Paket","price":10000,"cat":"TELKOMSEL","masa_aktif":"30 HARI"},
   {"id":15,"name":"XL EDUKASI","desc":"Config Untuk Paket Edukasi XL Tidak Termasuk Paket","price":10000,"cat":"XL","masa_aktif":"30 HARI"},
