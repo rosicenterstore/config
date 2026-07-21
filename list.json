@@ -1,48 +1,481 @@
 [
-  {"id":1,"name":"SCRIPT TUNNELING VPN","desc":"Auto Script Tunneling Untuk membuat server VPn dengan Menggunakan VPs Linux","price":25000,"cat":"SCRIPT","masa_aktif":"30  HARI"},
-  {"id":2,"name":"SERVER ID NEVA 1GB","desc":"VPs Linux Bergaransi 1 Bulan, Spesifikasi RAM 1GB dengan 1 CPu Isp Nevacloud, Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia","price":80000,"cat":"VPS","masa_aktif":"30 HARI"},
-  {"id":3,"name":"SERVER ID NEVA 2GB","desc":"VPs Linux Bergaransi 1 Bulan, Spesifikasi RAM 2GB dengan 2 CPu Isp Nevacloud, Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia","price":130000,"cat":"VPS","masa_aktif":"30 HARI"},
-  {"id":4,"name":"SERVER ID BIZNET 1GB","desc":"VPs Linux Bergaransi 1 Bulan, Spesifikasi RAM 1GB dengan 1 CPu Isp Biznet, Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia","price":100000,"cat":"VPS","masa_aktif":"30 HARI"},
-  {"id":5,"name":"SERVER ID BIZNET 2GB","desc":"VPs Linux Bergaransi 1 Bulan, Spesifikasi RAM 2GB dengan 2 CPu Isp Biznet, Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia","price":150000,"cat":"VPS","masa_aktif":"30 HARI"},
-  {"id":6,"name":"SERVER ID VPN 1GB","desc":"VPs Linux Bergaransi 1 Bulan, Spesifikasi RAM 1GB dengan 1 CPu Isp Nevacloud, Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia","price":80000,"cat":"SERVER","masa_aktif":"30 HARI"},
-  {"id":7,"name":"SERVER SG DIGITALOCEAN 8GB","desc":"VPs Linux NO Bergaransi, Spesifikasi RAM 8GB dengan 4 CPu Isp Digital Ocean, Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia","price":120000,"cat":"VPS","masa_aktif":"30 HARI"},
-  {"id":8,"name":"AXIS WA BOOSTER","desc":"Config Untuk Paket WA BOOSTER AXIS Tidak Termasuk Paket","price":10000,"cat":"AXIS","masa_aktif":"30 HARI"},
-  {"id":9,"name":"AXIS WA BOOSTER","desc":"Config Untuk Paket WA BOOSTER AXIS Tidak Termasuk Paket","price":3000,"cat":"AXIS","masa_aktif":"7 HARI"},
-  {"id":10,"name":"AXIS WA BOOSTER","desc":"Config Untuk Paket WA BOOSTER AXIS Tidak Termasuk Paket","price":5000,"cat":"AXIS","masa_aktif":"15 HARI"},
-  {"id":11,"name":"AXIS MUSIK BOOSTER","desc":"Config Untuk Paket MUSIK BOOSTER AXIS Tidak Termasuk Paket","price":3000,"cat":"AXIS","masa_aktif":"7 HARI"},
-  {"id":12,"name":"AXIS MUSIK BOOSTER","desc":"Config Untuk Paket MUSIK BOOSTER AXIS Tidak Termasuk Paket","price":5000,"cat":"AXIS","masa_aktif":"15 HARI"},
-  {"id":13,"name":"AXIS MUSIK BOOSTER","desc":"Config Untuk Paket MUSIK BOOSTER AXIS Tidak Termasuk Paket","price":10000,"cat":"AXIS","masa_aktif":"30 HARI"},
-  {"id":14,"name":"TSEL HALO FLEXY BOOSTER","desc":"Config Untuk Paket HALLO FLEXY TELKOMSEL Tidak Termasuk Paket","price":10000,"cat":"TELKOMSEL","masa_aktif":"30 HARI"},
-  {"id":15,"name":"XL EDUKASI","desc":"Config Untuk Paket Edukasi XL Tidak Termasuk Paket","price":10000,"cat":"XL","masa_aktif":"30 HARI"},
-  {"id":16,"name":"XL EDUKASI","desc":"Config Untuk Paket Edukasi XL Tidak Termasuk Paket","price":5000,"cat":"XL","masa_aktif":"15 HARI"},
-  {"id":17,"name":"XL EDUKASI","desc":"Config Untuk Paket Edukasi XL Tidak Termasuk Paket","price":3000,"cat":"XL","masa_aktif":"7 HARI"},
-  {"id":18,"name":"XL EDUKASI PAKET","desc":"Paket EDUKASI Masa Aktif Paket 7 Hari, dengan Kuota 15 GB Dapat Ditumpuk","price":10500,"cat":"PAKET","masa_aktif":"7 HARI"},
-  {"id":19,"name":"XL EDUKASI + PAKET","desc":"Config Untuk Paket Edukasi XL INCLUDE PAKET 1 MINGGU DENGAN KUOTA 15 GB /PENGISIAN","price":13500,"cat":"CONFIG + PAKET","masa_aktif":"7 HARI"},
-  {"id":20,"name":"XL CONFRECE + PAKET","desc":"Config Untuk Paket CONFRECE XL INCLUDE PAKET 1 MINGGU DENGAN KUOTA 15 GB /PENGISIAN","price":16500,"cat":"CONFIG + PAKET","masa_aktif":"7 HARI"},
-  {"id":21,"name":"XL CONFRECE","desc":"Config Untuk Paket CONFRECE XL Tidak Termasuk Paket","price":10000,"cat":"XL","masa_aktif":"30 HARI"},
-  {"id":22,"name":"XL CONFRECE","desc":"Config Untuk Paket CONFRECE XL Tidak Termasuk Paket","price":5000,"cat":"XL","masa_aktif":"15 HARI"},
-  {"id":23,"name":"XL CONFRECE","desc":"Config Untuk Paket CONFRECE XL Tidak Termasuk Paket","price":3000,"cat":"XL","masa_aktif":"7 HARI"},
-  {"id":24,"name":"XL CONFRECE PAKET","desc":"Paket CONFRECE Masa Aktif Paket 7 Hari, dengan Kuota 15 GB Dapat Ditumpuk","price":13500,"cat":"PAKET","masa_aktif":"7 HARI"},
-  {"id":25,"name":"MASA AKTIF XL","desc":"Pengisian Masa Aktif Untuk Kartu Provider XL","price":8000,"cat":"MASA AKTIF","masa_aktif":"30 HARI"},
-  {"id":26,"name":"MASA AKTIF AXIS","desc":"Pengisian Masa Aktif Untuk Kartu Provider AXIS Bonus Kuota Game 1 GB","price":8000,"cat":"MASA AKTIF","masa_aktif":"30 HARI"},
-  {"id":27,"name":"XL IFLIX","desc":"Config Untuk Paket XL IFLIX Tidak Termasuk Paket","price":10000,"cat":"XL","masa_aktif":"30 HARI"},
-  {"id":27,"name":"XL IFLIX","desc":"Config Untuk Paket XL IFLIX Tidak Termasuk Paket","price":5000,"cat":"XL","masa_aktif":"15 HARI"},
-  {"id":27,"name":"XL IFLIX","desc":"Config Untuk Paket XL IFLIX Tidak Termasuk Paket","price":3000,"cat":"XL","masa_aktif":"7 HARI"},
-  {"id":28,"name":"XL XTRA KUOTA PAKET","desc":"Paket XTRA KUOTA Masa Aktif Paket 30 Hari, dengan Kuota 14 GB Iflix, 15 GB Kuota Malam, 1 GB Sosmed, tida Dapat Ditumpuk","price":15000,"cat":"PAKET","masa_aktif":"30 HARI"},
-  {"id":29,"name":"AXIS GAME BOOSTER","desc":"Config Untuk Paket GAME BOOSTER AXIS Tidak Termasuk Paket","price":10000,"cat":"AXIS","masa_aktif":"30 HARI"},
-  {"id":30,"name":"AXIS GAME BOOSTER","desc":"Config Untuk Paket GAME BOOSTER AXIS Tidak Termasuk Paket","price":5000,"cat":"AXIS","masa_aktif":"15 HARI"},
-  {"id":31,"name":"AXIS GAME BOOSTER","desc":"Config Untuk Paket GAME BOOSTER AXIS Tidak Termasuk Paket","price":3000,"cat":"AXIS","masa_aktif":"7 HARI"},
-  {"id":32,"name":"TSEL ILPED","desc":"Config Untuk Paket TELKOMSEL ILMUPEDIA 22 GB Tidak Termasuk paket (Wajib Trial Karena tidak semua Lokasi dapat menggunakan vpn)","price":10000,"cat":"TELKOMSEL","masa_aktif":"30 HARI"},
-  {"id":33,"name":"TSEL ILPED","desc":"Config Untuk Paket TELKOMSEL ILMUPEDIA 22 GB Tidak Termasuk paket (Wajib Trial Karena tidak semua Lokasi dapat menggunakan vpn)","price":5000,"cat":"TELKOMSEL","masa_aktif":"15 HARI"},
-  {"id":33,"name":"TSEL ILPED","desc":"Config Untuk Paket TELKOMSEL ILMUPEDIA 22 GB Tidak Termasuk paket (Wajib Trial Karena tidak semua Lokasi dapat menggunakan vpn)","price":3000,"cat":"TELKOMSEL","masa_aktif":"7 HARI"},
-  {"id":34,"name":"ISAT APPFUNS","desc":"Config Untuk Paket Im3 Fredoom appsFun Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3","price":10000,"cat":"IM3","masa_aktif":"30 HARI"},
-  {"id":34,"name":"ISAT EDU30","desc":"Config Untuk Paket Im3 Fredoom Edukasi 30 GB Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3","price":10000,"cat":"IM3","masa_aktif":"30 HARI"},
-  {"id":35,"name":"THREE SOSMED","desc":"Config Untuk Paket Sosmed Three Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3","price":10000,"cat":"IM3","masa_aktif":"30 HARI"},
-  {"id":36,"name":"XL TIKTOK","desc":"Config Untuk Paket XL TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi","price":10000,"cat":"XL","masa_aktif":"30 HARI"},
-  {"id":37,"name":"AXIS TIKTOK","desc":"Config Untuk Paket AXIS TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi","price":10000,"cat":"AXIS","masa_aktif":"30 HARI"},
-  {"id":38,"name":"SMARTFREN CHAT","desc":"Config Untuk Paket SMARTFREN CHAT Tidak Termasuk Paket Paket dapat di beli di aplikasi","price":10000,"cat":"smartfren","masa_aktif":"30 HARI"},
-  {"id":39,"name":"SMARTFREN NONSTOP","desc":"Config Untuk Paket SMARTFREN NONSTOP Tidak Termasuk Paket Paket dapat di beli di aplikasi","price":10000,"cat":"smartfren","masa_aktif":"30 HARI"},
-  {"id":40,"name":"BYU TIKTOK","desc":"Config Untuk Paket BYU TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi","price":10000,"cat":"BYU","masa_aktif":"30 HARI"},
-  {"id":41,"name":"TSEL TIKTOK","desc":"Config Untuk Paket TSEL TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi","price":10000,"cat":"TELKOMSEL","masa_aktif":"30 HARI"}
-  
-]
+ {
+ "id":58,
+ "name":"SCRIPT TUNNELING VPN",
+ "desc":"Auto Script Tunneling Untuk membuat server VPn dengan Menggunakan VPs Linux",
+ "price":25000,
+ "cat":"SCRIPT",
+ "masa_aktif":"30  HARI" },
+
+ {
+ "id":59,
+ "name":"SERVER ID NEVA 1GB",
+ "desc":"VPs Linux Bergaransi 1 Bulan Spesifikasi RAM 1GB dengan 1 CPu Isp Nevacloud Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia",
+ "price":80000,
+ "cat":"VPS",
+ "masa_aktif":"30 HARI" },
+
+ {
+ "id":60,
+ "name":"SERVER ID NEVA 2GB",
+ "desc":"VPs Linux Bergaransi 1 Bulan Spesifikasi RAM 2GB dengan 2 CPu Isp Nevacloud Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia",
+ "price":130000,
+ "cat":"VPS",
+ "masa_aktif":"30 HARI" },
+
+ {
+ "id":61,
+ "name":"SERVER ID BIZNET 1GB",
+ "desc":"VPs Linux Bergaransi 1 Bulan Spesifikasi RAM 1GB dengan 1 CPu Isp Biznet Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia",
+ "price":100000,
+ "cat":"VPS",
+ "masa_aktif":"30 HARI" },
+
+ {
+ "id":62,
+ "name":"SERVER ID BIZNET 2GB",
+ "desc":"VPs Linux Bergaransi 1 Bulan Spesifikasi RAM 2GB dengan 2 CPu Isp Biznet Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia",
+ "price":150000,
+ "cat":"VPS",
+ "masa_aktif":"30 HARI" },
+
+ {
+ "id":63,
+ "name":"SERVER ID VPN 1GB",
+ "desc":"VPs Linux Bergaransi 1 Bulan Spesifikasi RAM 1GB dengan 1 CPu Isp Nevacloud Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia",
+ "price":80000,
+ "cat":"SERVER",
+ "masa_aktif":"30 HARI" },
+
+ {
+ "id":64,
+ "name":"SERVER SG LEASWEB 6GB",
+ "desc":"VPs Linux Bergaransi 1 Bulan Spesifikasi RAM 6GB dengan 4 CPu Isp LEASWEB Sudah Include Domain dan Script Tunneling siap pakai Jualan akun ssh Premium Indonesia",
+ "price":300000,
+ "cat":"VPS",
+ "masa_aktif":"30 HARI" },
+
+ {
+ "id": 1,
+ "name": "AXIS WA BOOSTER",
+ "desc": "Config Untuk Paket WA BOOSTER AXIS Tidak Termasuk Paket",
+ "price": 10000,
+ "cat": "AXIS",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 2,
+ "name": "AXIS MUSIK BOOSTER",
+ "desc": "Config Untuk Paket MUSIK BOOSTER AXIS Tidak Termasuk Paket",
+ "price": 10000,
+ "cat": "AXIS",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 3,
+ "name": "TSEL HALO FLEXY BOOSTER",
+ "desc": "Config Untuk Paket HALLO FLEXY TELKOMSEL Tidak Termasuk Paket",
+ "price": 10000,
+ "cat": "TELKOMSEL",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 4,
+ "name": "XL EDUKASI",
+ "desc": "Config Untuk Paket Edukasi XL Tidak Termasuk Paket",
+ "price": 10000,
+ "cat": "XL",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 5,
+ "name": "XL CONFRECE",
+ "desc": "Config Untuk Paket CONFRECE XL Tidak Termasuk Paket",
+ "price": 10000,
+ "cat": "XL",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 6,
+ "name": "MASA AKTIF XL",
+ "desc": "Pengisian Masa Aktif Untuk Kartu Provider XL",
+ "price": 8000,
+ "cat": "MASA AKTIF",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 7,
+ "name": "MASA AKTIF AXIS",
+ "desc": "Pengisian Masa Aktif Untuk Kartu Provider AXIS Bonus Kuota Game 1 GB",
+ "price": 8000,
+ "cat": "MASA AKTIF",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 8,
+ "name": "XL IFLIX",
+ "desc": "Config Untuk Paket XL IFLIX Tidak Termasuk Paket",
+ "price": 10000,
+ "cat": "XL",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 9,
+ "name": "AXIS GAME BOOSTER",
+ "desc": "Config Untuk Paket GAME BOOSTER AXIS Tidak Termasuk Paket",
+ "price": 10000,
+ "cat": "AXIS",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 10,
+ "name": "TSEL GAMEMAX",
+ "desc": "Config Untuk Paket TELKOMSEL Gamemax 22 GB Tidak Termasuk paket (Wajib Trial Karena tidak semua Lokasi dapat menggunakan vpn)",
+ "price": 10000,
+ "cat": "TELKOMSEL",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 11,
+ "name": "TSEL ILMUPEDIA",
+ "desc": "Config Untuk Paket TELKOMSEL ILMUPEDIA 22 GB Tidak Termasuk paket (Wajib Trial Karena tidak semua Lokasi dapat menggunakan vpn)",
+ "price": 10000,
+ "cat": "TELKOMSEL",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 12,
+ "name": "ISAT APPFUNS",
+ "desc": "Config Untuk Paket Im3 Fredoom appsFun Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3",
+ "price": 10000,
+ "cat": "IM3",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 13,
+ "name": "THREE SOSMED",
+ "desc": "Config Untuk Paket Sosmed Three Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3",
+ "price": 10000,
+ "cat": "TRI",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 14,
+ "name": "XL TIKTOK",
+ "desc": "Config Untuk Paket XL TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 10000,
+ "cat": "XL",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 15,
+ "name": "AXIS TIKTOK",
+ "desc": "Config Untuk Paket AXIS TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 10000,
+ "cat": "AXIS",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 16,
+ "name": "SMARTFREN CHAT",
+ "desc": "Config Untuk Paket SMARTFREN CHAT Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 10000,
+ "cat": "smartfren",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 17,
+ "name": "SMARTFREN NONSTOP",
+ "desc": "Config Untuk Paket SMARTFREN NONSTOP Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 10000,
+ "cat": "smartfren",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 18,
+ "name": "BYU TIKTOK",
+ "desc": "Config Untuk Paket BYU TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 10000,
+ "cat": "BYU",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 19,
+ "name": "TSEL TIKTOK",
+ "desc": "Config Untuk Paket TSEL TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 10000,
+ "cat": "TELKOMSEL",
+ "masa_aktif": "30 HARI" },
+
+ {
+ "id": 20,
+ "name": "AXIS WA BOOSTER",
+ "desc": "Config Untuk Paket WA BOOSTER AXIS Tidak Termasuk Paket",
+ "price": 5000,
+ "cat": "AXIS",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 21,
+ "name": "AXIS MUSIK BOOSTER",
+ "desc": "Config Untuk Paket MUSIK BOOSTER AXIS Tidak Termasuk Paket",
+ "price": 5000,
+ "cat": "AXIS",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 22,
+ "name": "TSEL HALO FLEXY BOOSTER",
+ "desc": "Config Untuk Paket HALLO FLEXY TELKOMSEL Tidak Termasuk Paket",
+ "price": 5000,
+ "cat": "TELKOMSEL",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 23,
+ "name": "XL EDUKASI",
+ "desc": "Config Untuk Paket Edukasi XL Tidak Termasuk Paket",
+ "price": 5000,
+ "cat": "XL",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 24,
+ "name": "XL CONFRECE",
+ "desc": "Config Untuk Paket CONFRECE XL Tidak Termasuk Paket",
+ "price": 5000,
+ "cat": "XL",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 27,
+ "name": "XL IFLIX",
+ "desc": "Config Untuk Paket XL IFLIX Tidak Termasuk Paket",
+ "price": 5000,
+ "cat": "XL",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 28,
+ "name": "AXIS GAME BOOSTER",
+ "desc": "Config Untuk Paket GAME BOOSTER AXIS Tidak Termasuk Paket",
+ "price": 5000,
+ "cat": "AXIS",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 29,
+ "name": "TSEL GAMEMAX",
+ "desc": "Config Untuk Paket TELKOMSEL Gamemax 22 GB Tidak Termasuk paket (Wajib Trial Karena tidak semua Lokasi dapat menggunakan vpn)",
+ "price": 5000,
+ "cat": "TELKOMSEL",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 30,
+ "name": "TSEL ILMUPEDIA",
+ "desc": "Config Untuk Paket TELKOMSEL ILMUPEDIA 22 GB Tidak Termasuk paket (Wajib Trial Karena tidak semua Lokasi dapat menggunakan vpn)",
+ "price": 5000,
+ "cat": "TELKOMSEL",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 31,
+ "name": "ISAT APPFUNS",
+ "desc": "Config Untuk Paket Im3 Fredoom appsFun Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3",
+ "price": 5000,
+ "cat": "IM3",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 32,
+ "name": "THREE SOSMED",
+ "desc": "Config Untuk Paket Sosmed Three Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3",
+ "price": 5000,
+ "cat": "TRI",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 33,
+ "name": "XL TIKTOK",
+ "desc": "Config Untuk Paket XL TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 5000,
+ "cat": "XL",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 34,
+ "name": "AXIS TIKTOK",
+ "desc": "Config Untuk Paket AXIS TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 5000,
+ "cat": "AXIS",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 35,
+ "name": "SMARTFREN CHAT",
+ "desc": "Config Untuk Paket SMARTFREN CHAT Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 5000,
+ "cat": "smartfren",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 36,
+ "name": "SMARTFREN NONSTOP",
+ "desc": "Config Untuk Paket SMARTFREN NONSTOP Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 5000,
+ "cat": "smartfren",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 37,
+ "name": "BYU TIKTOK",
+ "desc": "Config Untuk Paket BYU TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 5000,
+ "cat": "BYU",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 38,
+ "name": "TSEL TIKTOK",
+ "desc": "Config Untuk Paket TSEL TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 5000,
+ "cat": "TELKOMSEL",
+ "masa_aktif": "15 HARI" },
+
+ {
+ "id": 39,
+ "name": "AXIS WA BOOSTER",
+ "desc": "Config Untuk Paket WA BOOSTER AXIS Tidak Termasuk Paket",
+ "price": 3000,
+ "cat": "AXIS",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 40,
+ "name": "AXIS MUSIK BOOSTER",
+ "desc": "Config Untuk Paket MUSIK BOOSTER AXIS Tidak Termasuk Paket",
+ "price": 3000,
+ "cat": "AXIS",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 41,
+ "name": "TSEL HALO FLEXY BOOSTER",
+ "desc": "Config Untuk Paket HALLO FLEXY TELKOMSEL Tidak Termasuk Paket",
+ "price": 3000,
+ "cat": "TELKOMSEL",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 42,
+ "name": "XL EDUKASI",
+ "desc": "Config Untuk Paket Edukasi XL Tidak Termasuk Paket",
+ "price": 3000,
+ "cat": "XL",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 43,
+ "name": "XL CONFRECE",
+ "desc": "Config Untuk Paket CONFRECE XL Tidak Termasuk Paket",
+ "price": 3000,
+ "cat": "XL",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 46,
+ "name": "XL IFLIX",
+ "desc": "Config Untuk Paket XL IFLIX Tidak Termasuk Paket",
+ "price": 3000,
+ "cat": "XL",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 47,
+ "name": "AXIS GAME BOOSTER",
+ "desc": "Config Untuk Paket GAME BOOSTER AXIS Tidak Termasuk Paket",
+ "price": 3000,
+ "cat": "AXIS",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 48,
+ "name": "TSEL GAMEMAX",
+ "desc": "Config Untuk Paket TELKOMSEL Gamemax 22 GB Tidak Termasuk paket (Wajib Trial Karena tidak semua Lokasi dapat menggunakan vpn)",
+ "price": 3000,
+ "cat": "TELKOMSEL",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 49,
+ "name": "TSEL ILMUPEDIA",
+ "desc": "Config Untuk Paket TELKOMSEL ILMUPEDIA 22 GB Tidak Termasuk paket (Wajib Trial Karena tidak semua Lokasi dapat menggunakan vpn)",
+ "price": 3000,
+ "cat": "TELKOMSEL",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 50,
+ "name": "ISAT APPFUNS",
+ "desc": "Config Untuk Paket Im3 Fredoom appsFun Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3",
+ "price": 3000,
+ "cat": "IM3",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 51,
+ "name": "THREE SOSMED",
+ "desc": "Config Untuk Paket Sosmed Three Tidak Termasuk Paket Paket dapat di beli di aplikasi myim3",
+ "price": 3000,
+ "cat": "TRI",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 52,
+ "name": "XL TIKTOK",
+ "desc": "Config Untuk Paket XL TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 3000,
+ "cat": "XL",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 53,
+ "name": "AXIS TIKTOK",
+ "desc": "Config Untuk Paket AXIS TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 3000,
+ "cat": "AXIS",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 54,
+ "name": "SMARTFREN CHAT",
+ "desc": "Config Untuk Paket SMARTFREN CHAT Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 3000,
+ "cat": "smartfren",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 55,
+ "name": "SMARTFREN NONSTOP",
+ "desc": "Config Untuk Paket SMARTFREN NONSTOP Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 3000,
+ "cat": "smartfren",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 56,
+ "name": "BYU TIKTOK",
+ "desc": "Config Untuk Paket BYU TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 3000,
+ "cat": "BYU",
+ "masa_aktif": "7 HARI" },
+
+ {
+ "id": 57,
+ "name": "TSEL TIKTOK",
+ "desc": "Config Untuk Paket TSEL TIKTOK Tidak Termasuk Paket Paket dapat di beli di aplikasi",
+ "price": 3000,
+ "cat": "TELKOMSEL",
+ "masa_aktif": "7 HARI" }
+ ]
